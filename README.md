@@ -15,11 +15,13 @@
 
 ## Goal
 
-Similar to todays' `board-games` lab, create a homepage that displays all the buildings in the database.
+Create a homepage that displays all the buildings in the database.
 
 The database folder contains properties about notable architectural buildings around the world that you will render as a list to the page.
+
+Remember: the command to run schema and seed is ```psql -f <file-name>```
 
 ## 🚀 Your homework submission should include:
 
 - A pull request created on _this repo_.
-- This homework is due 🚨 11PM TONIGHT 6/12 🚨
+- This homework is due 🚨 11PM TONIGHT 11/1 🚨
